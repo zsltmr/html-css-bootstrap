@@ -1,2 +1,2 @@
-# html-css-bootstrap
-Learning html, css, bootstrap
+# html-css-js 
+learning html, css, js
