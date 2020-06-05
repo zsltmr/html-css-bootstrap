@@ -1,0 +1,2 @@
+Color guessing game made by following udemy web developer course.
+The Web Developer Bootcamp by Colt Steele.
